@@ -12,7 +12,7 @@ function Main() {
                     Lets build something together.
                 </p>
                 <h1 className='py-4 text-gray-700'>
-                    Hi, I'm <span className='text-[#00A2E6]'>Bikesh</span>
+                    Hi, I&apos;m <span className='text-[#00A2E6]'>Bikesh</span>
                 </h1>
                 <h1 className='py-2 text-gray-700'>
                     a Software engineer
